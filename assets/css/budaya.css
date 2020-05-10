@@ -1,0 +1,68 @@
+.menu{
+	background-color:black;
+	width:100%;
+	height:auto;
+	position:fixed;
+	left:0;
+	top:0;
+	z-index :999;
+}
+.menu button{
+	background-color:transparent;
+	width:100px;
+	border-color:transparent;
+	height:60px;
+	float:left;
+	margin-left:30px;
+}
+.menu button:hover{
+	background-color:silver;
+	border-left-color:white;
+	border-right-color:white;
+	border-width:7px;
+	width:100px;
+	height:60px;
+	float:left;
+	margin-left:30px;
+	color:black;
+}
+.menu a button{
+	color:white;
+	font-size:11px;
+	text-decoration:none;
+	font-family:verdana;
+}
+.content{
+	background-color:rgba(0,0,0, 0.9);
+	width:1349px;
+	height:auto;
+	position:absolute;
+	margin-left:-8px;
+	margin-top:50px;
+}
+p{
+	color:white;
+	text-align:justify;
+}
+h1{
+	color:white;
+}
+h2{
+	color:white;
+}
+#image_big{
+	background-color:transparent;
+	width:auto;
+	height:auto;
+	margin-top:-15px;
+}
+#description{
+	background-color:transparent;
+	width:70%;
+	height:auto;
+}
+#text{
+	background-color:black;
+	float:left;
+	width:100%;
+}

@@ -1,0 +1,133 @@
+html,
+body {
+    font-family: "Trebuchet MS";
+    background-color:lightblue;
+    height: 100%;
+    cursor: url("http://3.bp.blogspot.com/-kCuu45j3OE0/UTlul-wPJWI/AAAAAAAACiw/VbrmGliX5Mo/s1600/kursor+jonarendra+2.png"), auto;} 
+footer{
+    padding:15px;
+}
+
+.items:hover{
+    margin: 6px -6px;
+}
+.wrapper{
+    width:1240px;
+    margin:50px auto 20px auto;
+    margin-bottom:50px;
+    background-color: #ffffff;
+}
+.home{
+    width:1240px;
+    margin: 0px auto 20px auto;
+    margin-bottom:50px;
+    background-color: #ffffff; 
+}
+.carousel {
+    height: 50%;
+}
+
+.item,
+.active,
+.carousel-inner {
+    height: 100%;
+}
+
+.fill {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+.logo{
+	width:70px;
+	height:70px;
+}
+.header{
+	font-size:18px;
+}
+.navbar-nav{
+    margin-top:13px;
+    font-size:18px;
+}
+.tombol:hover{
+    width:200px;
+    height:50px;
+    background-color:lightblue;
+    color:black;
+}
+.visimisi{
+    width:250px;
+    height:250px;
+    padding:10px 10px 10px 10px ;
+    margin-top:30px;
+}
+.team-member {
+    float: left;
+    position: relative;
+    width: 100%;
+}
+.team-member > img {
+    float: left;
+    width: 100%;
+}
+.team-member > h3 {
+    background: rgba(20, 173, 124, 1);
+    bottom: 25px;
+    color:#fff;
+    font-size: 20px;
+    letter-spacing: 1px;
+    line-height: 16px;
+    padding: 15px 0;
+    position: absolute;
+    text-align: center;  
+    width: 100%;
+   line-height:25px;
+}
+.intro-section {
+    height: 100%;
+    padding-top: 150px;
+    text-align: center;
+    background: #fff;
+}
+
+.fedrick-section {
+    height: 100%;
+    padding-top: 150px;
+    text-align: center;
+    background: #eee;
+}
+
+.bernika-section {
+    height: 100%;
+    padding-top: 150px;
+    text-align: center;
+    background: #fff;
+}
+
+.junita-section {
+    height: 100%;
+    padding-top: 150px;
+    text-align: center;
+    background: #eee;
+}
+.greis-section {
+    height: 100%;
+    padding-top: 150px;
+    text-align: center;
+    background: #fff;
+}
+
+.sondang-section {
+    height: 100%;
+    padding-top: 150px;
+    text-align: center;
+    background: #eee;
+}
+.copy{
+    width:500;
+    height:500;
+}
